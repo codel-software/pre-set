@@ -1,0 +1,42 @@
+.transparent {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#margin-bottom {
+    margin-bottom: 10px;
+}
+
+#width-60 {
+    width: 60%;
+}
+
+.center {
+    text-align: center;
+}
+
+.bg-red {
+    color: rgb(255, 255, 255);
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+.bg-red:focus {
+    color: rgb(255, 255, 255);
+    border-color: transparent;
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+.bg-green {
+    color: rgb(255, 255, 255);
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+
+.bg-green:focus {
+    color: rgb(255, 255, 255);
+    border-color: transparent;
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
